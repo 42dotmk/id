@@ -18,7 +18,6 @@ services:
         KC_PROXY: ${KC_PROXY}
         KC_HOSTNAME: ${KC_HOSTNAME}
         KC_DB: ${KC_DB}
-        KC_DB_ADDR: ${KC_DB_ADDR}
         KC_DB_URL: ${KC_DB_URL}
         KC_DB_USER: ${KC_DB_USER}
         KC_DB_SCHEMA: ${KC_DB_SCHEMA}
